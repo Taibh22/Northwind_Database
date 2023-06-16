@@ -34,4 +34,4 @@ This project uses the following technologies:
 
 ## Credits
 
-This project is based on the Northwind Database provided by Microsoft Access. The data was converted to CSV files and made available by [pthom/northwind_psql]([https://github.com/Taibh22/Northwind_Database/tree/main/data)]). The database schema was adapted from [postgresguide.com](https://postgresguide.com/utilities/northwind.html).
+This project is based on the Northwind Database provided by Microsoft Access.
